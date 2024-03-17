@@ -40,8 +40,9 @@ class CreditsState extends MusicBeatState
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Funky Trio Team'],
-			['zqwlt',				'jai',				'animation, music, \'programming\', etc.',					 'https://youtube.com/@zqwlt',			'BA4AFF'],
-			['Zevisly',				'zevis',			'art, character design, playtesting',									 'https://twitter.com/Sourvisly',		'C2C2C2'],
+			['zqwlt',				'jai',				'Animation, music, \'coding\', charting',					 'https://youtube.com/@zqwlt',			'BA4AFF'],
+			['Zevisly',				'zevis',			'Art, character design, playtesting',									 'https://twitter.com/Sourvisly',		'C2C2C2'],
+			['iimqry',				'mqry',			'Additional art',									 'https://twitter.com/iimqry',		'AAFF87'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer and Head of Psych Engine',					 'https://ko-fi.com/shadowmario',		'444444'],

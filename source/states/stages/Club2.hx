@@ -25,7 +25,7 @@ class Club2 extends BaseStage
 		fronter.setGraphicSize(Std.int(fronter.width * 0.7));
 		add(fronter);
 
-		var frontest:BGSprite = new BGSprite('curtain', -730, -100, 1.1, 1.1);
+		var frontest:BGSprite = new BGSprite('curtain', -730, -300, 1.1, 1.1);
 		frontest.setGraphicSize(Std.int(frontest.width * 1.2));
 		add(frontest);
 	}
